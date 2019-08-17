@@ -1,0 +1,6 @@
+﻿owner=579159495830142977
+prefix=
+game=Created By Kenz & Max
+stayinchannel=true
+songinstatus=true
+token=NjEyMzUxODMyNDEyNjUxNTIx.XVhHHA.tfcUgLwELoC8IMhto5n7vd6SY1U
